@@ -3,13 +3,13 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Website Desa Sukamaju</title>
+<title>Website Desa Klidang Lor</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <header>
-<h1>Website Desa Sukamaju</h1>
+<h1>Website Desa Klidang Lor</h1>
 <p>Kecamatan Contoh - Kabupaten Contoh</p>
 </header>
 
@@ -22,7 +22,7 @@
 
 <section id="beranda">
 <h2>Selamat Datang</h2>
-<p>Website resmi Desa Sukamaju.</p>
+<p>Website resmi Desa Klidang Lor.</p>
 </section>
 
 <section id="profil">
@@ -37,11 +37,11 @@
 
 <section id="kontak">
 <h2>Kontak</h2>
-<p>Email: desa@email.com</p>
+<p>Email: desaklidanglor@email.com</p>
 </section>
 
 <footer>
-<p>© 2026 Pemerintah Desa Sukamaju</p>
+<p>© 2026 Pemerintah Desa Klidang Lor</p>
 </footer>
 
 <script src="script.js"></script>
